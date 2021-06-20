@@ -3,4 +3,5 @@ Documenting all required prerequisites for Computational Physics
 
  **Python version 3.9.5**
 
-# Dependency libraries
+## Procedure
+* Install [Anaconda] (https://www.anaconda.com/products/individual)
