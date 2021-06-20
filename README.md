@@ -3,6 +3,8 @@ Documenting all required prerequisites for Computational Physics
 
  **Python version 3.9.5**
 
+ Download [Python 3.9.5](https://www.python.org/downloads/release/python-395/)
+
 ## Method For Installing on X86_64 Intel based MAC
  Install [Anaconda](https://www.anaconda.com/products/individual) 
 
@@ -46,3 +48,5 @@ Install dependencies libraries
 >`pip3 install --no-binary :all: --no-use-pep517 scipy`
 
 >`pip3 install jupyter`
+
+>`jupyter notebook`
