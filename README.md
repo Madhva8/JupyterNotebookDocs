@@ -9,4 +9,4 @@ Documenting all required prerequisites for Computational Physics
 2. Install **Homebrew**
 >`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-3. >'brew install pip'
+3. >`brew install pip`
