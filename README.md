@@ -9,6 +9,10 @@ Documenting all required prerequisites for Computational Physics
  Install **Homebrew**
 >`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
+Install **pip**
+
 >`brew install pip`
+
+Install dependencies libraries
 
 >`pip install numpy, scipy, matplotlib, pandas, jupyter`
