@@ -18,6 +18,8 @@ Install **pip**
 
 >`brew install pip`
 
+You might alread have these libraries preinstalled if not, follow these steps
+
 Install dependencies libraries
 
 >`pip install numpy, scipy, matplotlib, pandas, astropy`
