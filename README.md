@@ -20,7 +20,7 @@ Install **pip**
 
 Install dependencies libraries
 
->`pip install numpy, scipy, matplotlib, pandas`
+>`pip install numpy, scipy, matplotlib, pandas, astropy`
 
 ### Launch Anaconda and run Jupyter Notebook
 
@@ -46,6 +46,8 @@ Install dependencies libraries
 >`export OPENBLAS=/opt/homebrew/opt/openblas/lib/`
 
 >`pip3 install --no-binary :all: --no-use-pep517 scipy`
+
+>`pip3 install matplotlib, pandas, astropy`
 
 >`pip3 install jupyter`
 
