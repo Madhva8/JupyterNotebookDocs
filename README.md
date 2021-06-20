@@ -1,6 +1,6 @@
 # JupyterNotebookDocs
-Documenting all required prerequisites for Computational Physics
+## Documenting all required prerequisites for Computational Physics
 
-**Python version 3.9.5**
+## **Python version 3.9.5**
 
-# Dependecy libraries
+# Dependency libraries
