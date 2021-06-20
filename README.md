@@ -47,8 +47,14 @@ Install dependencies libraries
 
 >`pip3 install --no-binary :all: --no-use-pep517 scipy`
 
->`pip3 install matplotlib, pandas, astropy`
-
->`pip3 install jupyter`
+>`pip3 install matplotlib, pandas, astropy, jupyter`
 
 >`jupyter notebook`
+
+## Modules
+
+* Numpy
+* Scipy
+* Matplotlib and Pandas
+* Astropy
+* Bring all together 
