@@ -5,5 +5,6 @@ Documenting all required prerequisites for Computational Physics
 
 ## Method For Installing on X86_64 Intel based MAC
 * Install [Anaconda](https://www.anaconda.com/products/individual) 
-* Install Homebrew
+
+Install Homebrew
 >(/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)")
