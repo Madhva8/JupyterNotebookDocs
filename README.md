@@ -7,4 +7,4 @@ Documenting all required prerequisites for Computational Physics
 * Install [Anaconda](https://www.anaconda.com/products/individual) 
 
 Install Homebrew
->/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
