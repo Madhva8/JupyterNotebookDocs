@@ -16,3 +16,7 @@ Install **pip**
 Install dependencies libraries
 
 >`pip install numpy, scipy, matplotlib, pandas, jupyter`
+
+Launch Terminal
+
+>`jupyter notebook`
