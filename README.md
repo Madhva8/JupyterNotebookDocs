@@ -28,6 +28,8 @@ Install dependencies libraries
 
 ### Open Terminal and follow
 
+It is not recomended to download Anaconda for M1 macs as it uses translation layer. Instead use pip3 to install jupyter notebook and other dependencies.
+
 Install **Homebrew**
 >`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
