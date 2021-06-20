@@ -6,8 +6,11 @@ Documenting all required prerequisites for Computational Physics
 ## Method For Installing on X86_64 Intel based MAC
  Install [Anaconda](https://www.anaconda.com/products/individual) 
 
+Open Terminal and follow
+
  Install **Homebrew**
 >`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
 
 Install **pip**
 
@@ -16,7 +19,5 @@ Install **pip**
 Install dependencies libraries
 
 >`pip install numpy, scipy, matplotlib, pandas, jupyter`
-
-Launch Terminal
 
 >`jupyter notebook`
